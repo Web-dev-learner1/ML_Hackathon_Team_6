@@ -35,9 +35,6 @@ The `choose_action` function attempts to find a guess in this specific order of 
 
 
 
-[Image of an n-gram probability diagram]
-
-
 ---
 
 ## 🚀 How to Run
