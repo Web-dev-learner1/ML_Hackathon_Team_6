@@ -58,8 +58,6 @@ The agent is evaluated against the `test.txt` file (using 2000 games as per the 
 
 ### Example Results
 
-*(Paste your final output here)*
-
 ```
 ==============================
      EVALUATION RESULTS
