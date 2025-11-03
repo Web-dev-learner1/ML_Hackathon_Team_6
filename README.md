@@ -64,11 +64,11 @@ The agent is evaluated against the `test.txt` file (using 2000 games as per the 
 ==============================
      EVALUATION RESULTS
 ==============================
-Games Won:                XXXX / 2000
-Success Rate:             XX.XX%
-Total Wrong Guesses:      XXXX
-Total Repeated Guesses:   X
+Games Won:                604  / 2000
+Success Rate:             30.20%
+Total Wrong Guesses:      10490
+Total Repeated Guesses:   0
 ----------------------------------
-FINAL SCORE:              XXXXX
+FINAL SCORE:              -51846
 ==============================
 ```
